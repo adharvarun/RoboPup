@@ -82,3 +82,7 @@ python main.py
 ## 📜 License
 
 This project is Unlicensed
+
+# Made by
+[Adharv Arun](github.com/adharvarun)
+[Dhyey Gandhi](github.com/DhyeyARTW)
