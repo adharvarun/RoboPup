@@ -85,5 +85,5 @@ This project is Unlicensed
 
 # Made by
 
-[**Adharv Arun**](https://github.com/adharvaarun)  
+[**Adharv Arun**](https://github.com/adharvarun)  
 [**Dhyey Gandhi**](https://github.com/DhyeyARTW)  
