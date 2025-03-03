@@ -84,5 +84,6 @@ python main.py
 This project is Unlicensed
 
 # Made by
-[Adharv Arun](github.com/adharvarun)
-[Dhyey Gandhi](github.com/DhyeyARTW)
+
+[**Adharv Arun**](https://github.com/adharvaarun)  
+[**Dhyey Gandhi**](https://github.com/DhyeyARTW)  
